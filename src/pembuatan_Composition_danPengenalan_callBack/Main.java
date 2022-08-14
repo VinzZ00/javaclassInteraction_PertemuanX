@@ -29,7 +29,7 @@ public class Main {
 		ikan ikanMas = new ikan();
 		kepiting kepitingLaut = new kepiting();
 		kepitingLaut.mencapit();
-		kepitingLaut.functMencapit.mencapit();
+		kepitingLaut.capit.mencapit();
 
 	}
 
